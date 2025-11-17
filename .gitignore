@@ -1,3 +1,4 @@
 # for big files
 *.json
 *.jsonl
+*.DS_Store
