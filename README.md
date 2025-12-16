@@ -18,7 +18,7 @@
 
 ## Dataset / 데이터셋
 
-**Download Link**: [Google Drive]()
+**Download Link**: [Google Drive](https://drive.google.com/drive/folders/1mkITUxIzEL_AobnYg7SZk-DjE2Dr137Q?usp=drive_link)
 
 Dataset은 다음을 포함한다:
 - `guardian_top100_scraping/`: 100명의 public figures에 대한 news articles (2017-2019)
