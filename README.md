@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-이 repository는 The Guardian의 financial news articles를 사용하여 S&P 500 stock prices를 예측하는 machine learning models의 code를 포함한다. 이 project는 traditional time series features와 100명의 public figures에 대한 news article embeddings를 결합하며, multiple embedding strategies와 prediction models를 활용한다.
+이 repository는 The Guardian의 news articles를 사용하여 S&P 500 stock prices를 예측하는 machine learning models의 code를 포함한다. 이 project는 traditional time series features와 100명의 public figures에 대한 news article embeddings를 결합하며, multiple embedding strategies와 prediction models를 활용한다.
 
 ## Repository Contents
 
