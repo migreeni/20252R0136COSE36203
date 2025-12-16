@@ -23,7 +23,9 @@
 Dataset은 다음을 포함한다:
 - `guardian_top100_scraping.zip`: 100명의 public figures에 대한 news articles (2017-2019)
 - `embedding.zip`: Multiple embedding representations
-- `feature_datasets.zip`: 생성된 feature sets
+- `feature_datasets_1.zip`: 생성된 feature sets #1
+- `feature_datasets_2.zip`: 생성된 feature sets #2 -> 두 폴더 안에 있는 데이터들을 모두 합쳐서 `feature_datasets/` 폴더에 넣어놓으셔야합니다. 
+
 ---
 
 ## Pipeline 
